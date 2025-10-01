@@ -40,6 +40,7 @@ Soft Skills:  Communication, Problem Solving, Adaptability, Teamwork
 
 ## 📜 Certifications
 
+* Building Enterprise Websites With Liferay – *Liferay*
 * Spring Boot 3 Essential Training – *LinkedIn Learning*
 * Selling Liferay – *Technical Sales Certification (Liferay)*
 * Data Science & Analytics – *HP Life, HP Foundation*
