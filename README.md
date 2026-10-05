@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a passionate and results-driven **Junior Softw
 * 🌱 Currently learning **Spring Boot**, **GitHub Copilot**, and contributing to open-source projects
 
 ## 💼 Work Experience
+* **Liferay Developer** – Harf IT Solutions, Riyadh
+  `Liferay 7.4`, `Java`, `SDLC`, `Upgrades`, `Security`, `SSO`
 
 * **Junior Software Engineer** – Business Analytics Pvt. Ltd
   `Liferay DXP 7.4`, `Java`, `SDLC`
