@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate and results-driven **Junior Softw
 ## 🚀 About Me
 
 * 🎓 **Bachelor's in Computer Science** from National University of Modern Languages (NUML), Rawalpindi — 2020–2024
-* 💼 Currently working as **Junior Software Engineer** at **Business Analytics Pvt. Ltd**
+* 💼 Currently working as **Liferay Developer** at **Harf IT Solutions, Riyadh**
 * 🌐 Experienced in **Liferay DXP 7.4**, **Java Web Development**, **C#**, **ASP.NET**, **React Native**, and more
 * 🧠 Enthusiastic about solving real-world problems and exploring cutting-edge technologies like **AI** and **Web Scraping**
 * 🌱 Currently learning **Spring Boot**, **GitHub Copilot**, and contributing to open-source projects
